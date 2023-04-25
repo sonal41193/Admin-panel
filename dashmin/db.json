@@ -1,0 +1,209 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "name": "Man's Wear Item",
+      "photo": "1.ipg"
+    },
+    {
+      "id": 2,
+      "name": "Women's Wear Item",
+      "photo": "2.ipg"
+    },
+    {
+      "id": 3,
+      "name": "Kids's Wear Item",
+      "photo": "3.ipg"
+    },
+    {
+      "id": 4,
+      "name": "Electronics Item",
+      "photo": "4.ipg"
+    },
+    {
+      "id": 5,
+      "name": "Grocery Item",
+      "photo": "5.ipg"
+    },
+    {
+      "name": "Mobilelmkm",
+      "photo": "6.jpgmnlkn",
+      "id": 6
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Dress",
+      "price": "1500",
+      "category": "Women",
+      "material": "cotton",
+      "size": "all size ",
+      "color": "all color",
+      "image": "1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sarees",
+      "price": "1000",
+      "category": "Women",
+      "material": "silk",
+      "size": "-",
+      "color": "all color",
+      "image": "2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "T-shirt",
+      "price": "500",
+      "category": "Women",
+      "material": "cotton",
+      "size": "all size",
+      "color": "all color",
+      "image": "3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "jeans",
+      "price": "699",
+      "category": "Men",
+      "material": "cotton",
+      "size": "all size",
+      "color": "all color",
+      "image": "4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "shoes",
+      "price": "3999",
+      "category": "Men",
+      "material": "leather",
+      "size": "all size",
+      "color": "all color",
+      "image": "5.jpg"
+    },
+    {
+      "title": "kutri",
+      "price": "500",
+      "category": "female",
+      "material": "cotton",
+      "size": "m",
+      "color": "white",
+      "image": "6.jpg",
+      "id": 6
+    },
+    {
+      "title": "Sport shoes",
+      "price": "3000",
+      "category": "female",
+      "material": "lather",
+      "size": "8",
+      "color": "white",
+      "image": "yugiy",
+      "id": 7,
+      "photo": "8.jpg"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "name": "jaina",
+      "email": "jaina@gmail.com",
+      "password": "0000",
+      "contact": "+64-7775-256974"
+    },
+    {
+      "id": 2,
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "password": "1234",
+      "contact": "+64-7775-256974"
+    },
+    {
+      "id": 3,
+      "name": "krupa",
+      "email": "krupa@gmail.com",
+      "password": "4567",
+      "contact": "+64-7775-256974"
+    },
+    {
+      "id": 4,
+      "name": "nidhi",
+      "email": "nidhi@gmail.com",
+      "password": "01111",
+      "contact": "+64-7775-256974"
+    },
+    {
+      "id": 5,
+      "name": "shiv",
+      "email": "shiv@gmail.com",
+      "password": "22222",
+      "contact": "+64-7775-256974"
+    },
+    {
+      "name": "nishita",
+      "email": "nishita@gmail.com",
+      "password": "789654",
+      "contact": "654351354634",
+      "id": 6
+    },
+    {
+      "name": "jaimin",
+      "email": "jaimin@gmail.com",
+      "password": "123123",
+      "contact": "987654321",
+      "id": 7
+    }
+  ],
+  "review": [
+    {
+      "id": 1,
+      "name": "jiya",
+      "product": "Dress",
+      "rating": "5.5",
+      "text": "this is the best product"
+    },
+    {
+      "id": 2,
+      "name": "rina",
+      "product": "watch",
+      "rating": "5",
+      "text": "this is the best product"
+    },
+    {
+      "id": 3,
+      "name": "kiya",
+      "product": "shoes",
+      "rating": "6",
+      "text": "this is the best product"
+    },
+    {
+      "id": 4,
+      "name": "ayush",
+      "product": "t-shirt",
+      "rating": "4.5",
+      "text": "this is the best product"
+    },
+    {
+      "id": 5,
+      "name": "mansi",
+      "product": "chain",
+      "rating": "5.5",
+      "text": "this is the best product"
+    },
+    {
+      "name": "nishita",
+      "product": "purse",
+      "rating": "5",
+      "text": "good material quality",
+      "id": 6
+    },
+    {
+      "name": "sonu",
+      "product": "Nailkit",
+      "rating": "4",
+      "text": "awsome",
+      "id": 7
+    }
+  ]
+}
